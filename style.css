@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(245, 241, 241);
+}
+
+
+
+h1 {
+    color:color(rgb(117, 60, 60));
+    font-size: 1.5em;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-bottom: 1em;
+}
+
+p{
+   text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1em;
+}
+
